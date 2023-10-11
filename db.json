@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Licensed Soft Shirt",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Fresh Chicken",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Plastic Towels",
+      "id": 18
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Steel Bacon",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7817984940703744",
+      "id": 2
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5457664643432448",
+      "id": 4
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1837662214291456",
+      "id": 5
+    }
+  ]
+}
